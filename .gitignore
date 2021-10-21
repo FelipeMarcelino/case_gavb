@@ -1,3 +1,4 @@
 .envrc
 shell.nix
-
+catboost_info/
+venv/
